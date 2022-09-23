@@ -13,7 +13,7 @@ new Vue({
           name: "Underworld (Slowed + Bass Boosted)",
           artist: "Norm Ender",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "Underworld (Slowed + Bass Boosted)@KNRD Music Support Our Second Channel🙏🏻.mp3",
+          source: "https//Underworld (Slowed + Bass Boosted)@KNRD Music Support Our Second Channel🙏🏻.mp3",
           url: "https://youtu.be/JjInFW5Cmww",
           favorited: false
         },
