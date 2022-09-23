@@ -10,7 +10,7 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
+          name: "Underworld (Slowed + Bass Boosted)",
           artist: "Norm Ender",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
           source: "Underworld (Slowed + Bass Boosted)@KNRD Music Support Our Second Channel🙏🏻.mp3",
